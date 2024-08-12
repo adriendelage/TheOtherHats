@@ -3,7 +3,7 @@
 		{
 			"author": "Oraclos",
 			"climbresource": "bwarky_climb.png",
-			"condition": "eterPackage",
+			"condition": "None",
 			"name": "Bwarky",
 			"package": "Eterzx Hats",
 			"reshasha": "69dc84c42cb18f0bca95ef1a2ebdf782",
@@ -13,7 +13,7 @@
 		{
 			"author": "Oraclos",
 			"climbresource": "eterzx_climb.png",
-			"condition": "eterPackage",
+			"condition": "None",
 			"name": "Eterzx",
 			"package": "Eterzx Hats",
 			"reshasha": "3425470076f7f113e727e124b7f7de3c",
@@ -23,7 +23,7 @@
 		{
 			"author": "Oraclos",
 			"climbresource": "merwhynn_climb.png",
-			"condition": "eterPackage",
+			"condition": "None",
 			"name": "Merwhynn",
 			"package": "Eterzx Hats",
 			"reshasha": "5cb64535be09c787dc1bb0f23e78d9c2",
@@ -33,7 +33,7 @@
 		{
 			"author": "Oraclos",
 			"climbresource": "nem0_climb.png",
-			"condition": "eterPackage",
+			"condition": "None",
 			"name": "nem0",
 			"package": "Eterzx Hats",
 			"reshasha": "74767635e216a4dc9c859ebbd59dce3d",
@@ -43,7 +43,7 @@
 		{
 			"author": "Oraclos",
 			"climbresource": "oraclos_climb.png",
-			"condition": "eterPackage",
+			"condition": "None",
 			"name": "Oraclos",
 			"package": "Eterzx Hats",
 			"reshasha": "19933bb77b0f40eb0700a03cbb0976b9",
@@ -53,7 +53,7 @@
 		{
 			"author": "Oraclos",
 			"climbresource": "pacco_climb.png",
-			"condition": "eterPackage",
+			"condition": "None",
 			"name": "Pacco",
 			"package": "Eterzx Hats",
 			"reshasha": "408a18fba6fa3c6c02a068049cf831bc",
@@ -63,7 +63,7 @@
 		{
 			"author": "Oraclos",
 			"climbresource": "rac_climb.png",
-			"condition": "eterPackage",
+			"condition": "None",
 			"name": "Rac",
 			"package": "Eterzx Hats",
 			"reshasha": "6dc6aea5a998f1d722a1b56a084f4b19",
@@ -73,7 +73,7 @@
 		{
 			"author": "Oraclos",
 			"climbresource": "rougedoudou_climb.png",
-			"condition": "eterPackage",
+			"condition": "None",
 			"flipresource": "rougedoudou_flip.png"
 			"name": "Rougedoudou",
 			"package": "Eterzx Hats",
@@ -85,7 +85,7 @@
 		{
 			"author": "Oraclos",
 			"climbresource": "steven_climb.png",
-			"condition": "eterPackage",
+			"condition": "None",
 			"name": "Steven",
 			"package": "Eterzx Hats",
 			"reshasha": "ca095a0c1ce5db156a0519e8508aba93",
