@@ -1,5 +1,97 @@
 {
     "hats": [
+		{
+			"author": "Oraclos",
+			"climbresource": "bwarky_climb.png",
+			"condition": "eterPackage",
+			"name": "Bwarky",
+			"package": "Eterzx Hats",
+			"reshasha": "69dc84c42cb18f0bca95ef1a2ebdf782",
+			"reshashc": "e796ec1542ffba408b590e4a41c3e100",
+			"resource": "bwarky.png"
+		},
+		{
+			"author": "Oraclos",
+			"climbresource": "eterzx_climb.png",
+			"condition": "eterPackage",
+			"name": "Eterzx",
+			"package": "Eterzx Hats",
+			"reshasha": "3425470076f7f113e727e124b7f7de3c",
+			"reshashc": "e796ec1542ffba408b590e4a41c3e100",
+			"resource": "eterzx.png"
+		},
+		{
+			"author": "Oraclos",
+			"climbresource": "merwhynn_climb.png",
+			"condition": "eterPackage",
+			"name": "Merwhynn",
+			"package": "Eterzx Hats",
+			"reshasha": "5cb64535be09c787dc1bb0f23e78d9c2",
+			"reshashc": "e796ec1542ffba408b590e4a41c3e100",
+			"resource": "merwhynn.png"
+		},
+		{
+			"author": "Oraclos",
+			"climbresource": "nem0_climb.png",
+			"condition": "eterPackage",
+			"name": "nem0",
+			"package": "Eterzx Hats",
+			"reshasha": "74767635e216a4dc9c859ebbd59dce3d",
+			"reshashc": "e796ec1542ffba408b590e4a41c3e100",
+			"resource": "nem0.png"
+		},
+		{
+			"author": "Oraclos",
+			"climbresource": "oraclos_climb.png",
+			"condition": "eterPackage",
+			"name": "Oraclos",
+			"package": "Eterzx Hats",
+			"reshasha": "19933bb77b0f40eb0700a03cbb0976b9",
+			"reshashc": "e796ec1542ffba408b590e4a41c3e100",
+			"resource": "oraclos.png"
+		},
+		{
+			"author": "Oraclos",
+			"climbresource": "pacco_climb.png",
+			"condition": "eterPackage",
+			"name": "Pacco",
+			"package": "Eterzx Hats",
+			"reshasha": "408a18fba6fa3c6c02a068049cf831bc",
+			"reshashc": "e796ec1542ffba408b590e4a41c3e100",
+			"resource": "pacco.png"
+		},
+		{
+			"author": "Oraclos",
+			"climbresource": "rac_climb.png",
+			"condition": "eterPackage",
+			"name": "Rac",
+			"package": "Eterzx Hats",
+			"reshasha": "6dc6aea5a998f1d722a1b56a084f4b19",
+			"reshashc": "e796ec1542ffba408b590e4a41c3e100",
+			"resource": "rac.png"
+		},
+		{
+			"author": "Oraclos",
+			"climbresource": "rougedoudou_climb.png",
+			"condition": "eterPackage",
+			"flipresource": "rougedoudou_flip.png"
+			"name": "Rougedoudou",
+			"package": "Eterzx Hats",
+			"reshasha": "16d5af4276f886e5df9ab5abec131a77",
+			"reshashc": "e796ec1542ffba408b590e4a41c3e100",
+			"reshashf": "0ac792c2431c14e4294a4ae5fd8339f2",
+			"resource": "rougedoudou.png"
+		},
+		{
+			"author": "Oraclos",
+			"climbresource": "steven_climb.png",
+			"condition": "eterPackage",
+			"name": "Steven",
+			"package": "Eterzx Hats",
+			"reshasha": "ca095a0c1ce5db156a0519e8508aba93",
+			"reshashc": "e796ec1542ffba408b590e4a41c3e100",
+			"resource": "steven.png"
+		},
         {
             "author": "Palmer",
             "bounce": true,
