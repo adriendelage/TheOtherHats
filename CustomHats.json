@@ -74,7 +74,7 @@
 			"author": "Oraclos",
 			"climbresource": "rougedoudou_climb.png",
 			"condition": "None",
-			"flipresource": "rougedoudou_flip.png"
+			"flipresource": "rougedoudou_flip.png",
 			"name": "Rougedoudou",
 			"package": "Eterzx Hats",
 			"reshasha": "16d5af4276f886e5df9ab5abec131a77",
