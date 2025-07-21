@@ -1,6 +1,16 @@
 {
     "hats": [
 		{
+			"author": "Mr1Dridri",
+			"climbresource": "toadette_climb.png",
+			"condition": "None",
+			"name": "Toadette",
+			"package": "Community Hats",
+			"reshasha": "21df634cfd364e39293be779e87eb9cd",
+			"reshashc": "11168c7ec717fd3014af3525f60e5788",
+			"resource": "toadette.png"
+		},
+		{
 			"author": "Oraclos",
 			"climbresource": "bwarky_climb.png",
 			"condition": "None",
